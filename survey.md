@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:   red 
+Favorite food:   banana
+Favorite musician/band: idk 
+Favorite movie: Megamind
+Requested grade in the course: 1000000 
